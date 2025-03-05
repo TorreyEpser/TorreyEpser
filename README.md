@@ -5,10 +5,10 @@
  - [Active Directory Home Lab](https://github.com/TorreyEpser/ActiveDirectoryLab/tree/main)
  - [Hello World](https://github.com/TorreyEpser/ActiveDirectoryLab/tree/main)
 
-<h2> 📃 Certifications </h2>
+<h2>📃 Certifications:</h2>
  - [CompTIA Security+](https://imgur.com/3HVqo90)
 
-<h2>📺 Popular YouTube Videos</h2>
+<h2>📺 Popular YouTube Videos:</h2>
 
 - [Active Directory Home Lab](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
