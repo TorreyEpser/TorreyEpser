@@ -6,7 +6,9 @@
  - [Hello World](https://github.com/TorreyEpser/ActiveDirectoryLab/tree/main)
 
 <h2>📃 Certifications:</h2>
- - [CompTIA Security+](https://imgur.com/3HVqo90)
+  <a href="https://imgur.com/3HVqo90">CompTIA Security+</a><br>
+  <a href="https://imgur.com/z20JGKB">CompTIA Network+</a>
+ 
 
 <h2>📺 Popular YouTube Videos:</h2>
 
