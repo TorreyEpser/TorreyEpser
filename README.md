@@ -3,9 +3,10 @@
 <h2>👨‍💻 IT Projects:</h2>
 
  - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+ - [Hello World]
 
 <h2> 📃 Certifications </h2>
- - [CompTIA Security+](
+ - [CompTIA Security+]
 
 <h2>📺 Popular YouTube Videos</h2>
 
