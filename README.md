@@ -2,11 +2,15 @@
 
 <h2>👨‍💻 IT Projects:</h2>
 
-  - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+ - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
 
-<h2> Certifications</h2>
+<h2> 📃 Certifications </h2>
+ - [CompTIA Security+](
 
-- [CompTIA Security+](file:///C:/Users/tepse/Downloads/CompTIA%20Security+%20ce%20certificate.pdf)
+<h2>📺 Popular YouTube Videos</h2>
+
+- [Active Directory Home Lab](https://www.youtube.com/watch?v=a83ASGn_V_s)
+
 
 <h2> 🤳 Connect with me:</h2>
 
